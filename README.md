@@ -1,1 +1,4 @@
-# roe_q1
+{
+  "pair": "Returns-Footfall",
+  "correlation": 0.1078
+}
